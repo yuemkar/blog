@@ -1,0 +1,19 @@
+Klasör yönlendirmesi kullandığım için başka bir klasör içine alıp çalıştırmayı denerseniz yönlendirmeler patlar
+o yüzden htdocs içerisinde sadece bu sitenin olması lazım.
+
+
+ADMİN
+yunusemreadmin@gmail.com
+123
+
+YAZAR
+yunusemreauthor@gmail.com
+123
+
+KULLANICI
+yunusemreuser@gmail.com
+123
+
+DATABASE
+BLOG/LİBRARİES
+PANEL/LİBRARİES
